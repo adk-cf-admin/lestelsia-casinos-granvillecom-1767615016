@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Granville",
+  "short_name": "Casino de Granville",
+  "theme_color": "",
+  "background_color": "#0f0f0f",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767610902-favicon-site-100x100.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

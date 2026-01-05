@@ -1,0 +1,201 @@
+{
+    "fr-FR": {
+        "styles": {
+            "bg": "#0f0f0f",
+            "lang-select-color": "#222829",
+            "bg-light": "#BD831F",
+            "welcome-bonus-bg": "#0f0f0f",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#1c1c1c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#BD831F",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#CF052E",
+            "yellow": "#BD831F",
+            "yellow-button": "#CF052E",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#0f0f0f",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#0f0f0f",
+            "faq-label": "#0f0f0f",
+            "bg-footer": "#0f0f0f",
+            "copyright": "#e7e7d5",
+            "starColor": "#CF052E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino de Granville",
+            "title": "Casino de Granville  : machines à sous, roulette, blackjack, restaurants et Le Purple",
+            "description": "Découvrez le Casino de Granville : machines à sous, roulette électronique, blackjack et formats poker, bars Le Baraka et Le Purple, restaurants La Table de Louis et Le Terranova. Horaires pratiques, ambiance de soirée, animations et programme S Club avec €Stars pour des avantages et bonus.",
+            "canonical": "lestelsia-casinos-granville.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1333",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "lestelsia-casinos-granville.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1334",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1335"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1344",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Granville Logo"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "hero": {
+            "title": "Casino de Granville — jeux, bars, restaurants et club face à la mer",
+            "textDesktop": "Offre de bienvenue exclusive de",
+            "textMobile": "Offre de bienvenue exclusive de",
+            "playGame": " Lancer la partie",
+            "claimBonus": "Réclamer le bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1345",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1346",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Activer le bonus",
+            "title": "Top casinos",
+            "allCasino": "Tous les casinos",
+            "welcomeBonusText": "Bonus de bienvenue"
+        },
+        "bonusDetails": {
+            "title": "Détails du bonus",
+            "getBonusButtonText": "Obtenir le bonus",
+            "maximumAmountText": "Montant maximum",
+            "wagerText": "Wager",
+            "bonusCodeText": "Code promo",
+            "casino": "Casino",
+            "bonuses": "Bonus",
+            "rate": "Note",
+            "freeSpins": "Tours gratuits",
+            "moreInfo": "Plus d'infos",
+            "get": "Obtenir",
+            "refresh": "Actualiser"
+        },
+        "advantages": {
+            "title": "Avantages",
+            "advantagesBeforeText": "Le Casino de Granville séduit par l’équilibre entre sensations de jeu et détente face à la mer. ",
+            "items": [
+                "Jackpots machines à sous, gros gains possibles",
+                "€Stars cumulés, avantages à échanger facilement",
+                "Roulette et blackjack: rythme, gains rapides",
+                "Large choix de machines, nouveautés régulières",
+                "Vue mer, ambiance balnéaire très vivante",
+                "Bars et club, soirées jusqu’au bout",
+                "Ouverture dès 10h, tous les jours"
+            ],
+            "advantagesAfterText": "Les avantages cumulés via les €Stars et la variété des mises conviennent autant aux débutants qu’aux habitués. L’ambiance de bord de mer et les horaires pratiques en font une adresse simple à intégrer à une soirée ou à un séjour.",
+            "knowMore": "En savoir plus",
+            "appTitle": "Casino de Granville App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1347",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino de Granville App",
+            "mobileGooglePlayImageTitle": "Casino de Granville App",
+            "mobileIosImageTitle": "Casino de Granville App"
+        },
+        "games": {
+            "playNowText": " Jouer maintenant",
+            "title": "Jeux populaires",
+            "allGames": "Tous les jeux"
+        },
+        "about": {
+            "history": {
+                "title": "À propos Casino de Granville",
+                "description1": "Le casino se distingue par une expérience “jeu + nuit”: bar en salle et ambiance club prolongent la soirée au-delà des mises. La vue sur la mer et l’esprit balnéaire ajoutent une dimension de détente que l’on ne retrouve pas partout.\n",
+                "items": [
+                    "Blackjack — paiement 3:2.",
+                    "Roulette — 35:1 sur numéro.",
+                    "S Club — 1 coupe offerte."
+                ],
+                "description2": "Le Casino de Granville est un lieu où le jeu se mêle à la détente face à la mer. L’ambiance intérieure est vivante et chaleureuse, adaptée autant à une sortie tranquille qu’à une soirée animée. On passe facilement des machines à sous aux versions électroniques des jeux incontournables, selon son rythme. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1348",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Les amateurs de classique apprécient l’esprit du blackjack traditionnel et l’atmosphère d’un vrai casino. Les bars permettent de faire une pause et de prolonger les échanges entre amis. Le format nocturne s’affirme avec une touche club, où la musique prend naturellement sa place. La visite se planifie aisément grâce à une ouverture régulière au quotidien. Le lieu convient aussi bien à un passage rapide qu’à un programme de plusieurs heures. On y vient pour les sensations, la lumière, le service et l’énergie du bord de mer. Au final, c’est une adresse polyvalente pour jouer, se retrouver et se divertir."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino de Granville — esprit bord de mer, jeux et nuits animées",
+                "description": "<p>\nLe Casino de Granville se vit comme une adresse lumineuse du front de mer, où l’on combine jeu, gastronomie et sorties nocturnes dans un même lieu. On y retrouve un vrai caractère balnéaire : la mer, la lumière, le mouvement et la musique installent une ambiance de fête. Le style mêle énergie contemporaine et sensation de “casino classique”, celle qui donne envie de prolonger la soirée. L’endroit convient à plusieurs scénarios, du passage en solo à la sortie entre amis.\n\n<\/p>\n<br>\n\n\n<p>\nLe rythme de la visite est porté par des horaires pratiques : l’ouverture est assurée chaque jour dès le matin, ce qui permet de venir en journée ou de construire une soirée complète. Le jour, on profite d’une atmosphère plus calme, idéale pour jouer à son rythme et faire une pause face à la mer. Le soir, l’énergie monte : la salle s’anime, la musique s’installe et la vie de bar prend naturellement le relais. Cette amplitude plaît à ceux qui aiment garder leur liberté sans dépendre d’un seul créneau “fort”.\n\n<\/p>\n<br>\n<p>\nL’offre de jeux s’articule autour des machines, des formats de roulette et de blackjack, avec un mélange d’options électroniques et traditionnelles. Les machines à sous apportent diversité de thèmes et de mécaniques, permettant de trouver une expérience adaptée à son envie du moment. Les jeux électroniques facilitent la prise en main et aident à maîtriser le rythme des mises. Les amateurs d’ambiance apprécient le blackjack traditionnel et le côté vivant du jeu autour d’une table. Au final, chacun peut choisir sa manière de jouer, simple ou plus immersive.\n\n<\/p>\n<br>\n<p>\nLa dimension bar et nuit fait partie intégrante de l’expérience. On trouve un bar en salle pour des pauses rapides sans quitter l’ambiance, et un bar-club qui accompagne la soirée jusqu’à tard. La musique et l’énergie générale transforment souvent la visite en événement plutôt qu’en simple session de jeu. Lors des soirées à thème, l’atmosphère devient encore plus festive et conviviale. Beaucoup viennent précisément pour ce mélange : jouer, se détendre et sortir au même endroit.\n\n<\/p>\n<br>\n<p>\nLa restauration renforce l’idée d’un lieu “tout-en-un” : les restaurants permettent de programmer un dîner avant de jouer ou de faire une vraie coupure au milieu de la soirée. La vue participe pleinement au plaisir, en donnant un caractère vacances à une simple pause. Le rythme de service est généralement pensé pour une soirée détendue, où l’on prend le temps. Cela fonctionne autant pour un rendez-vous que pour une sortie de groupe. Le casino devient ainsi un point central de divertissement, pas seulement une salle de jeux.\n\n<\/p>\n<br>\n<p>\nEnfin, l’expérience est complétée par une logique de récompense des visiteurs réguliers. Le programme S Club agit comme une porte d’entrée simple vers des privilèges, avec une création rapide et sans complexité. Le cumul de €Stars sur les jeux rend chaque visite plus “utile”, car on peut convertir ces avantages en récompenses concrètes. Des offres personnalisées et des bénéfices liés aux animations renforcent l’envie de revenir. C’est cette continuité qui donne au Casino de Granville une identité de lieu de sortie où l’on prend vite ses habitudes.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService et gains au Casino de Granville — équipe, paiements et retrait\n<\/h3>\n\n<p>\nLe personnel du Casino de Granville est généralement perçu comme attentif et rassurant, un point essentiel pour une première visite. En salle, l’équipe aide à s’orienter, à comprendre où commencer et à choisir un rythme de jeu confortable. Aux tables et à la caisse, on apprécie une communication posée : on vous laisse jouer, mais on répond vite dès que vous en avez besoin. Cette présence discrète donne une expérience fluide, sans pression inutile. Le service vise surtout à rendre la visite simple et agréable.\n\n<\/p>\n<br>\n\n\n<p>\nCôté langues, le français est la base, et l’anglais est souvent un appui utile, notamment quand la fréquentation est touristique. Les étapes importantes — contrôle d’identité, conditions d’accès, échanges à la caisse, création d’une carte de fidélité — sont en général expliquées de manière claire. Si vous hésitez sur une règle de mise ou sur un paiement de gain, l’équipe privilégie des réponses courtes et pratiques. Cela évite les malentendus et renforce la confiance pendant le jeu. L’ensemble de l’accueil est pensé pour convenir autant aux novices qu’aux habitués.\n\n<\/p>\n<br>\n<p>\nLa monnaie utilisée est l’euro, qui sert aux opérations de caisse, aux tickets de jeu et aux échanges. Pour les consommations au bar et au restaurant, on utilise le plus souvent l’espèce et la carte bancaire, avec un recours fréquent au sans-contact pour la rapidité. Le scénario classique en caisse consiste à acheter du crédit ou des jetons, puis à rééchanger en fin de session. En cas d’opération importante, il est normal que des contrôles d’identité et quelques questions de conformité interviennent. C’est une pratique de sécurité standard qui protège tout le monde.\n\n<\/p>\n<br>\n<p>\nLa présence d’un distributeur sur place ou un service de change dépend de l’environnement immédiat, il est donc préférable de prévoir une solution alternative. Une option simple consiste à retirer en amont dans les distributeurs proches du centre et du front de mer, afin de gagner du temps. Beaucoup de visiteurs privilégient d’ailleurs un parcours majoritairement sans espèces : carte bancaire, budget maîtrisé et paiements rapides. Cela évite de transporter de grosses sommes pendant la soirée. Il suffit de garder en tête que les conditions de certaines cartes peuvent varier selon les banques.\n\n<\/p>\n<br>\n<p>\nLe retrait d’un gain en casino terrestre passe le plus souvent par la caisse : le gain est constaté, puis réglé selon la procédure interne. Pour des montants modestes, l’opération est rapide, tandis que des gains plus élevés peuvent exiger une identification renforcée et des formalités. Ces étapes ne sont pas un blocage, mais un cadre normal de sécurité financière. Si vous souhaitez sortir sans attente, ayez vos pièces d’identité à portée de main. Cela facilite et accélère la prise en charge.\n\n<\/p>\n<br>\n<p>\nLa fiscalité intéresse souvent les joueurs, et l’idée générale est la suivante : pour un particulier, les gains en casino terrestre ne sont habituellement pas traités comme un revenu régulier, mais de très gros montants peuvent entraîner davantage de formalités. Certaines situations spécifiques peuvent aussi modifier l’approche, notamment en cas d’activité professionnelle liée au jeu. Le bon réflexe reste de passer par la caisse officielle et de conserver les justificatifs. Cela permet de prouver l’origine des fonds si nécessaire. Ce cadre rend le paiement des gains plus serein et transparent.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRègles de visite du Casino de Granville — accès, tenue et stationnement\n<\/h3>\n\n<p>\nAu Casino de Granville, l’accès aux espaces de jeux implique des règles classiques de sécurité et de confort. Il est important d’avoir une pièce d’identité valide, car le contrôle à l’entrée fait partie des procédures normales. L’âge légal est strictement appliqué et vérifié. La tenue demandée reste souple, mais l’aspect soigné est attendu. Le respect des autres joueurs et du personnel contribue au bon déroulement des parties. Les prises de vues en salle peuvent être limitées pour des raisons de confidentialité et de sécurité. Un état d’ivresse manifeste peut entraîner un refus d’entrée, ce qui est courant dans ce type d’établissement. À l’intérieur, il faut suivre les consignes des équipes et les règles propres à chaque jeu. En soirée, l’affluence peut augmenter et le contrôle peut être un peu plus marqué. L’emplacement balnéaire permet d’arriver à pied par le front de mer ou en taxi. Pour les automobilistes, les parkings publics à proximité sont généralement l’option la plus pratique. L’ouverture dès le matin facilite une visite sans précipitation.\n\n\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTenue (dress‑code)\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCasual soigné : chaussures propres, tenue correcte, éviter le look plage.\n\n<\/li>\n            <li>• \nLe style sport est acceptable seulement s’il reste “urbain” et discret.\n\n<\/li>\n            <li>• \nLe soir, le smart casual est idéal si vous visez restaurant ou club.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’accès\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccès aux jeux avec une pièce d’identité valide.\n\n<\/li>\n            <li>• \nJeux réservés aux personnes majeures.\n\n<\/li>\n            <li>• \nRefus possible en cas de non-respect des règles ou de la sécurité.\n\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nInterdictions et limites\n\n\n<\/h4>\n\n <ul>\n            <li>• \nRestrictions photo\/vidéo en salle pour protéger la confidentialité.\n\n<\/li>\n            <li>• \nRefus d’accès possible en cas d’ivresse importante.\n\n<\/li>\n            <li>• \nInterdiction de gêner les joueurs, de manipuler le matériel, ou d’intervenir à une table.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nComment venir\n\n\n<\/h4>\n\n <ul>\n            <li>• \nÀ pied : itinéraire agréable par la promenade et les zones centrales.\n\n<\/li>\n            <li>• \nTaxi : solution rapide pour une visite nocturne, surtout après le club.\n\n<\/li>\n            <li>• \nVoiture : accès simple, mais stationnement à anticiper.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStationnement\n\n\n<\/h4>\n\n <ul>\n            <li>• \nParkings publics proches : pratiques pour une sortie courte ou un dîner.\n\n<\/li>\n            <li>• \nEn période d’affluence, venir plus tôt réduit le stress du stationnement.\n\n<\/li>\n            <li>• \nPour un groupe, le taxi peut être plus confortable en fin de soirée.\n<\/li>\n\n      \n<h3 style = \"font-weight: bold;font-size: 32px;\">\nS Club au Casino de Granville — programme de fidélité, avantages et fonctionnement\n<\/h3>\n\n<p>\nLe programme S Club du Casino de Granville est conçu pour être simple à rejoindre et agréable à utiliser dès la première visite. L’objectif est clair : transformer la régularité de jeu en avantages concrets qui rendent chaque session plus intéressante. Après la création de la carte, un geste de bienvenue est proposé, puis vous commencez à cumuler une monnaie interne, les €Stars. Le cumul s’applique à plusieurs univers de jeu, ce qui évite de changer vos habitudes uniquement pour “profiter” du programme. Les €Stars se convertissent ensuite en avantages via une mécanique d’échange, facile à comprendre et très concrète. En plus, le programme apporte des bénéfices liés aux animations, ce qui plaira à ceux qui viennent autant pour l’ambiance que pour les mises. Les offres exclusives personnalisées renforcent l’intérêt, car elles reviennent régulièrement et s’adaptent à votre profil. Résultat : S Club fonctionne comme un accès privilégié, pas comme une formalité. Il encourage à revenir, à varier les jeux et à prolonger la soirée entre bar, restaurant et divertissements. Pour un débutant, c’est une façon de recevoir des bonus sans complexité, et pour un habitué, un levier pour convertir son activité en privilèges. Plus vous jouez et plus vous venez, plus le solde de €Stars grimpe et plus les possibilités d’échange deviennent attractives.\n\n\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nConditions d’inscription\n<\/h4>\n\n <ul>\n            <li>• \nCréation : sur place, avec l’équipe d’accueil — rapide et simple.\n\n<\/li>\n            <li>• \nCoût : 0 €, programme annoncé comme gratuit.\n\n<\/li>\n            <li>• \nActivation : immédiate, utilisable dès le jour de création.\n\n<\/li>\n            <li>• \nIdentité : une pièce d’identité est généralement requise, comme pour l’accès à la salle.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nComment gagner des €Stars\n<\/h4>\n\n <ul>\n            <li>• \nCumul sur 3 catégories : machines à sous, jeux électroniques, jeux traditionnels.\n\n<\/li>\n            <li>• \nLogique : plus vous jouez, plus votre solde €Stars augmente.\n\n<\/li>\n            <li>• \nPratique : présenter la carte\/profil pour que le cumul soit bien enregistré.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\n“Niveaux” et progression\n<\/h4>\n\n <ul>\n            <li>• \nDans S Club, l’indicateur principal n’est pas un statut figé, mais le solde de €Stars.\n\n<\/li>\n            <li>• \nLa progression ressemble à une montée en avantages : plus de €Stars → plus d’options d’échange et des offres plus fréquentes.\n\n<\/li>\n            <li>• \nLes habitués apprécient aussi les bénéfices liés aux animations, souvent plus avantageux quand on revient régulièrement.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les bonus et avantages S Club\n<\/h4>\n\n <ul>\n            <li>• \n1 coupe de Champagne offerte à la création de la carte — un bonus immédiat et convivial.\n\n<\/li>\n            <li>• \n€Stars cumulés sur les jeux — vos mises se transforment en avantages, pas seulement en résultats de session.\n\n<\/li>\n            <li>• \nAvantages sur les animations — des bénéfices qui renforcent l’expérience lors des soirées et événements.\n\n<\/li>\n            <li>• \nOffres exclusives personnalisées chaque mois (12 par an) — promotions ciblées selon vos habitudes de visite et de jeu.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nÉchange des €Stars contre des récompenses :\n\n\n<\/h4>\n\n <ul>\n            <li>• \nTicket de Jeu — crédit\/ticket pour prolonger une prochaine session.\n\n<\/li>\n            <li>• \nCarte Essence — avantage pratique, perçu comme une économie réelle.\n\n<\/li>\n            <li>• \nBouteille de Champagne — récompense festive pour une soirée réussie.\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Fournisseurs de logiciels"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Divertissement et jeux au Casino de Granville",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonus et offres au Casino de Granville — promos, gains et temps forts saisonniers \n<\/h3>\n\n<p>\nLe Casino de Granville se distingue souvent par une dynamique “soirée complète” : jeux, musique, bar et événements créent une énergie qui dépasse la simple session de mises. Sur l’année, on retrouve généralement des animations qui renforcent le plaisir de jouer, comme des soirées à thème, des mini-tournois machines à sous, des tirages au sort et des événements festifs. L’avantage est la simplicité : beaucoup d’opérations ne demandent pas de démarches compliquées, il suffit d’être présent au bon moment. Les formats avec tickets de jeu sont particulièrement appréciés, car ils prolongent l’expérience et donnent une seconde chance sans alourdir le budget. Les visiteurs aiment aussi les périodes où la salle est plus vivante, avec davantage d’ambiance et de “moments gagnants” partagés. La nuit, la programmation musicale ajoute un bonus immatériel : on repart avec plus de souvenirs pour une même sortie. À certaines périodes, les offres “dîner + jeu” rendent la soirée plus cohérente, en liant restaurant et divertissement. Les tirages côté bar et salle renforcent l’implication, même pour ceux qui misent petit. La saisonnalité peut rendre la programmation plus dense lors des fêtes et des périodes touristiques. Il est utile de voir ces offres comme une couche supplémentaire de divertissement, pas comme un substitut au jeu. Les exemples ci-dessous servent de repères pour comprendre les mécaniques et les ordres de grandeur.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTournoi machines à sous\n<\/h4>\n\n <ul>\n            <li>• \nDotation : par exemple, 300–1 500 € en cadeaux\/tickets de jeu.\n\n<\/li>\n            <li>• \nPrincipe : classement sur points ou gains sur une plage horaire.\n\n<\/li>\n            <li>• \nAtout : accessible, règles simples même pour débuter.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHappy Hours de jeu\n<\/h4>\n\n <ul>\n            <li>• \nBonus : par exemple, +10% en tickets de jeu sur un achat de crédit à certaines heures.\n\n<\/li>\n            <li>• \nPrincipe : encourager une visite plus tôt ou en période plus calme.\n\n<\/li>\n            <li>• \nAtout : confort de jeu, moins d’affluence.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nJournées “jackpot”\n<\/h4>\n\n <ul>\n            <li>• \nBonus : par exemple, tirages supplémentaires toutes les 60 minutes.\n\n<\/li>\n            <li>• \nPrincipe : multiplier les temps forts dans la salle.\n\n<\/li>\n            <li>• \nAtout : renforce le sentiment de chance sur les machines.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCash drops et gains instantanés \n<\/h4>\n\n <ul>\n            <li>• \nMontants : par exemple, 20–200 € en cash\/chèques cadeaux\/prix.\n\n<\/li>\n            <li>• \nPrincipe : mini-tirages rapides parmi les joueurs présents.\n\n<\/li>\n            <li>• \nAtout : plaisant même avec de petites mises.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOffre “dîner + jeu”\n<\/h4>\n\n <ul>\n            <li>• \nAvantage : par exemple, 10–15 € en ticket de jeu avec un menu.\n\n<\/li>\n            <li>• \nPrincipe : lier restauration et session de jeu.\n\n<\/li>\n            <li>• \nAtout : idéal en couple ou entre amis.\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSoirées saisonnières et thèmes\n<\/h4>\n\n <ul>\n            <li>• \nCadeau : par exemple, 1 cocktail de bienvenue ou 1 boisson offerte à certaines dates.\n\n<\/li>\n            <li>• \nPrincipe : l’ambiance devient le bonus principal.\n\n<\/li>\n            <li>• \nAtout : parfait si vous venez pour la musique et la fête.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJeux populaires au Casino de Granville\n<\/h3>\n\n<p>\nLa salle de jeux du Casino de Granville est pensée pour offrir plusieurs rythmes de jeu : décision rapide sur les machines, sensations régulières à la roulette, approche plus stratégique au blackjack. Les machines à sous restent le choix le plus répandu, car elles proposent une grande variété de thèmes, de bonus et de niveaux de mise. Les joueurs apprécient leur simplicité : on choisit sa mise, on lance, et l’action commence immédiatement, avec des bonus qui rythment la session. La roulette anglaise électronique attire grâce à une mécanique claire : mises visibles, tours rapides et cadence constante. Elle combine l’esprit casino et le confort moderne, avec un bon contrôle du budget. Le blackjack électronique plaît à ceux qui veulent apprendre sereinement, sans stress, tout en gardant la logique du jeu. Le blackjack traditionnel, lui, est recherché pour l’ambiance vivante et le contact humain, qui transforment la partie en expérience. Les formats de poker en casino intéressent ceux qui aiment la structure et l’esprit de compétition. Pour bien choisir, il suffit d’aligner le jeu avec son style : machines pour la variété, roulette pour le rythme, blackjack pour la stratégie. Le mélange électronique\/traditionnel facilite une progression naturelle, du premier essai à une soirée plus immersive. En combinant jeux et pauses au bar, on peut construire une soirée très complète. Voici un aperçu des jeux les plus appréciés.\n\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nMachines à sous — grand choix de thèmes, bonus fréquents, rythme rapide, parfait en sessions courtes.\n\n<\/li>\n            <li>• \nRoulette anglaise électronique — roulette en format électronique, tours dynamiques et mises faciles à comprendre.\n\n<\/li>\n            <li>• \nBlackjack électronique — idéal pour débuter, maîtriser ses mises et jouer sans pression.\n\n<\/li>\n            <li>• \nBlackjack traditionnel — table vivante, vraie ambiance casino, plus d’interactions.\n\n<\/li>\n\t    <li>• \nTexas Hold’em \/ Ultimate Texas Hold’em (format poker) — structure de mises et dimension stratégique, pour amateurs de règles claires.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMises au Casino de Granville — minimums et repères de maximums\n<\/h3>\n\n<p> \nAu Casino de Granville, les mises couvrent plusieurs profils : petites mises sur machines, rythme régulier en jeux électroniques, et sensations plus “table” sur le blackjack. Les minimums permettent de découvrir les jeux sans pression et de tester tranquillement différentes options. Les maximums varient selon la table, les limites du jour et la machine choisie, mais des repères donnent une bonne idée pour préparer son budget. Voici une table claire pour comparer rapidement.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#0F0F0F; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Jeu<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Repère de mise maximale<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Machines à sous<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,01 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">jusqu’à 2 € par spin\/ligne <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">jusqu’à 50 € par mise<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack électronique<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">jusqu’à 100 € par main<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack traditionnel<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">jusqu’à 200 € par main<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">jusqu’à 100 € selon la structure<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nAnimations au Casino de Granville — musique, club et soirées régulières\n<\/h3>\n\n<p>\nLe Casino de Granville se vit autant comme un lieu de jeu que comme une sortie de soirée complète. On peut y construire un parcours simple : commencer par les mises, faire une pause au bar, puis basculer vers une ambiance plus festive et terminer sur un rythme club. Les animations apportent de la vie à la salle : soirées à thème, sets musicaux et moments programmés qui transforment une visite ordinaire en événement. Cette approche plaît à ceux qui viennent pour l’émotion, la musique et la convivialité, pas uniquement pour jouer.\n\n<\/p>\n<br>\n\n\n<p>\nLe point fort de la nuit, c’est l’esprit club, qui permet de prolonger la sortie sans changer d’adresse. La programmation musicale facilite la transition entre le jeu et la fête, en gardant une énergie constante. L’environnement de bord de mer renforce le sentiment d’évasion, même sur une simple soirée. Beaucoup apprécient justement cette possibilité de mixer jeux, pauses cocktails et danse, pour une expérience plus dense en un seul lieu.\n\n<\/p>\n<br>\n<p>\nLes divertissements réguliers incluent souvent des formats ludiques accessibles : tirages, mini-compétitions, initiations à certains jeux, et soirées plus interactives. Les formats type loto\/bingo et les thèmes sont appréciés car ils ne demandent pas d’expertise, tout en gardant une dose d’adrénaline et de contact social. Les diffusions sportives ajoutent un autre registre : celui des émotions collectives et de l’ambiance de match. Au final, le Casino de Granville devient pour beaucoup un vrai spot de sortie, au-delà du jeu.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nToutes les animations\n<\/h4>\n\n <ul>\n            <li>• \nClub Le Purple — ambiance dansante, musique, esprit nuit et soirée prolongée.\n\n<\/li>\n            <li>• \nBar en salle — pauses rapides, cocktails, continuité entre deux mises.\n\n<\/li>\n            <li>• \nSoirées musicales & DJ sets — énergie festive régulière, surtout le soir.\n\n<\/li>\n            <li>• \nSoirées à thème — scénarios variés, plus d’émotions en groupe.\n\n<\/li>\n\t    <li>• \nAnimations de jeu — tirages, petits tournois, temps forts en salle.\n\n<\/li>\n\t    <li>• \nFormats loto\/bingo — divertissement social, règles simples, plaisir immédiat.\n\n<\/li>\n\t    <li>• \nDiffusion sportive — visionnage de matchs et événements dans une ambiance vivante.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, restaurants et détente au Casino de Granville — saveurs, pauses et vue mer\n<\/h3>\n\n<p>\nLa détente au Casino de Granville repose sur une idée simple : vivre une soirée complète sans multiplier les déplacements. On peut commencer par le jeu, s’offrir un dîner, puis prolonger avec un verre et de la musique. Les bars servent de respiration entre deux mises, quand on veut changer de rythme, discuter et repartir avec une énergie nouvelle. La proximité de la mer apporte un vrai sentiment d’évasion, même au cœur d’une soirée animée. Beaucoup viennent justement pour ce mélange entre divertissement et pause balnéaire.\n\n<\/p>\n<br>\n\n\n<p>\nUn bar en salle permet des arrêts rapides sans quitter l’ambiance du jeu, pratique pour garder le rythme et rester dans l’action. Pour une expérience plus nocturne, le bar-club offre une atmosphère plus festive, où la musique devient centrale. Cette transition fait toute la différence : la soirée ne s’arrête pas avec la dernière mise, elle continue dans l’échange et la fête. C’est un format apprécié des groupes et de ceux qui recherchent une vraie ambiance de sortie. L’ensemble crée une expérience plus riche qu’une simple visite de salle de jeux.\n\n<\/p>\n<br>\n<p>\nLa restauration renforce ce confort : ici, le dîner peut devenir un moment clé, pas seulement un complément. La vue et l’esprit bord de mer transforment la pause en vrai temps de détente, plutôt qu’un simple encas. Le lieu convient à un rendez-vous, à une sortie entre amis ou à une petite célébration. Pour une soirée bien construite, on aime intégrer le restaurant avant de choisir les jeux ensuite selon l’envie. C’est cette fluidité qui rend le site attractif.\n\n<\/p>\n<br>\n<p>\nL’hébergement sur place n’est pas forcément l’élément central du complexe, et beaucoup choisissent donc des hôtels proches pour terminer la nuit confortablement. C’est particulièrement pratique si l’on vise une longue soirée ou un passage au club. Au final, on peut facilement composer un itinéraire complet : promenade, dîner, jeux, bar et musique. Ce scénario convient autant à une sortie courte qu’à une vraie soirée.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTous les espaces détente\n<\/h4>\n\n <ul>\n            <li>• \nSnack‑Bar Le Baraka (bar en salle) — pauses rapides, boissons et encas sans quitter les jeux.\n\n<\/li>\n            <li>• \nBar‑Club Le Purple — cocktails, musique, ambiance dansante et format nocturne.\n\n<\/li>\n            <li>• \nLa Table de Louis (restaurant) — dîner confortable, esprit convivial pour une soirée posée.\n\n<\/li>\n            <li>• \nLe Terranova (restaurant avec vue) — touche panoramique, parfait avant ou pendant la session de jeu.\n\n<\/li>\n\t    <li>• \nHôtels à proximité — solution pratique pour rester tard et rentrer sans stress.\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Faut-il réserver ou s’inscrire avant de venir ?",
+                    "answer": "Non, une visite classique ne demande pas de réservation. Venez pendant les horaires d’ouverture avec une pièce d’identité.\n\n\n"
+                },
+                {
+                    "title": "Peut-on venir en groupe ?",
+                    "answer": "Oui, venir entre amis est courant et il n’y a généralement pas de limite de groupe. Chaque personne doit simplement respecter les règles d’accès et de comportement.\n\n\n"
+                },
+                {
+                    "title": "Que faire en cas d’objet perdu ?",
+                    "answer": "Contactez rapidement l’équipe ou l’accueil. Plus la déclaration est rapide, plus la recherche est simple et efficace.\n\n\n"
+                },
+                {
+                    "title": "Le casino est-il adapté aux débutants ?",
+                    "answer": "Oui, machines et jeux électroniques sont parfaits pour découvrir. Le personnel peut aider pour l’orientation et les premières questions.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1349",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Granville"
+        }
+    },
+    "langs": [
+        {
+            "code": "fr-FR",
+            "name": "Французский",
+            "isDefault": true
+        }
+    ]
+}

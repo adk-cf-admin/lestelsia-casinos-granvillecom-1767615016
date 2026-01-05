@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://lestelsia-casinos-granville.com/
+Sitemap: https://lestelsia-casinos-granville.com/sitemap.xml
